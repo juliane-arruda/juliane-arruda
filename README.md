@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" alt="Ju-dance" height="270" style="border-radius:50px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
+<img align="right" alt="Ju-dance" height="250" style="border-radius:50px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 
 👩‍💻 Hello word, i’m Juliane Arruda
 
