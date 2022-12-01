@@ -10,7 +10,7 @@
 				
  ⚡ Fun facts:
 				
-  - Former chemistry 🧪
+  - Former chemist 🧪
   - Wine lover 🍷
   - Mother of cat 🐈
 
