@@ -1,15 +1,24 @@
 ![Profile views](https://gpvc.arturio.dev/juliane-arruda)
 
-- 👋 Hi, I’m @juliane-arruda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello Word 👋 
 
 
 <a href="https://github.com/juliane-arruda">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-arruda&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/juliane-arruda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:jdas-cha@student.42porto.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/juliane-arruda/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <br>
 </div>
 
 <!---
