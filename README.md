@@ -7,7 +7,7 @@
 
 👩‍🚀 Currently studying <a href="https://www.42porto.com/">42 Porto</a>
 				
-💻 Graduated by Ironhack <a href="https://www.ironhack.com/pt/programacao-web/sao-paulo">Fullstack web developer</a>
+💻 Graduated by Ironhack <a href="https://www.ironhack.com/pt/programacao-web/sao-paulo">Fullstack Web Developer</a>
 
 📫 Connect with me  <a href="https://www.linkedin.com/in/juliane-arruda/">Linkedin</a>
 				
