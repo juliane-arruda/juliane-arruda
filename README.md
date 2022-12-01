@@ -1,12 +1,15 @@
-## About me
+![Profile views](https://gpvc.arturio.dev/juliane-arruda)
+<h1 align="center"> About me </h1>
 
 <img align="right" alt="Ju-dance" height="250" style="border-radius:50px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 
 👩‍💻 Hello word, i’m Juliane Arruda
 
-👩‍🚀 Currently studying 42 Porto
+👩‍🚀 Currently studying <a href="https://www.42porto.com/">42 Porto</a>
 				
 💻 Graduated by Ironhack (Fullstack web developer)
+
+📫 Connect with me  <a href="https://www.linkedin.com/in/juliane-arruda/">Linkedin</a>
 				
  ⚡ Fun facts:
 				
@@ -14,9 +17,15 @@
   - Wine lover 🍷
   - Mother of cat 🐈
 
+<h1 align="center"> GitHub Stats and Most Used Languages </h1>
 
+<div align="center">
+	<a href="https://github.com/juliane-arruda">
+  	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
+    	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-arruda&layout=compact&langs_count=7&theme=monokai"/>
+</div>
 
-## Skills
+<h1 align="center"> Skills </h1>
 
  <div style="display: inline_block"><br>
 	<img align="center" alt="Ju-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -30,31 +39,9 @@
           
 </div> 
 
-## GitHub Stats and Most Used Languages
-
-<div>
-	<a href="https://github.com/juliane-arruda">
-  	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
-    	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-arruda&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-
-## Contact
-	
-<div style="display: inline_block">
-  <a href="https://github.com/juliane-arruda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:jdas-cha@student.42porto.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/juliane-arruda/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
 #
 
-![Profile views](https://gpvc.arturio.dev/juliane-arruda)
+
 
 <!---
 juliane-arruda/juliane-arruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
