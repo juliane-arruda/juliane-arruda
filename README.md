@@ -1,6 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/juliane-arruda)
-
 ## About me
+
+<img align="right" alt="Ju-dance" height="290" style="border-radius:50px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 
 👩‍💻 Hello word, i’m Juliane Arruda
 
@@ -14,7 +14,7 @@
   - Wine lover 🍷
   - Mother of cat 🐈
 
-<img align="right" alt="Ju-Git" height="180" style="border-radius:50px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
+
 
 ## Skills
 
@@ -26,8 +26,18 @@
 	<img align="center" alt="Ju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" alt="Ju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 	<img align="center" alt="Ju-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+	<img align="center" alt="Ju-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />   
+          
 </div> 
-	
+
+## GitHub Stats and Most Used Languages
+
+<div>
+	<a href="https://github.com/juliane-arruda">
+  	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
+    	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-arruda&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
 ## Contact
 	
 <div style="display: inline_block">
@@ -42,13 +52,9 @@
   </a>
 </div>
 
-####
+#
 
-<div align="center">
-	<a href="https://github.com/juliane-arruda">
-  	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
-    	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-arruda&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+![Profile views](https://gpvc.arturio.dev/juliane-arruda)
 
 <!---
 juliane-arruda/juliane-arruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
