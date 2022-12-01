@@ -19,11 +19,6 @@
 
 <h1 align="center"> GitHub Stats and Most Used Languages </h1>
 
-<div align="center">
-	<a href="https://github.com/juliane-arruda">
-  	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
-    	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliane-arruda&layout=compact&langs_count=7&theme=monokai"/>
-</div>
 
 <h1 align="center"> Skills </h1>
 
