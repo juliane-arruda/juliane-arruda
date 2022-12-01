@@ -2,6 +2,17 @@
 
 ## Hello Word 👋 
 
+👩‍💻 Hi, I’m Juliane Arruda
+
+👩‍🚀 Currently studying 42 Porto
+				
+💻 Graduated by Ironhack (Fullstack web developer)
+				
+ ⚡ Fun facts:
+				
+  - Former chemistry 🧪
+  - Wine lover 🍷
+  - Mother of cat 🐈
 
 <a href="https://github.com/juliane-arruda">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juliane-arruda&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/"/>
