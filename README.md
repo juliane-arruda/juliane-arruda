@@ -3,11 +3,11 @@
 
 <img align="right" alt="Ju-dance" height="250" style="border-radius:50px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 
-👩‍💻 Hello word, i’m Juliane Arruda
+👩‍💻 Hello word, i am Juliane Arruda
 
 👩‍🚀 Currently studying <a href="https://www.42porto.com/">42 Porto</a>
 				
-💻 Graduated by Ironhack (Fullstack web developer)
+💻 Graduated by Ironhack <a href="https://www.ironhack.com/pt/programacao-web/sao-paulo">Fullstack web developer</a>
 
 📫 Connect with me  <a href="https://www.linkedin.com/in/juliane-arruda/">Linkedin</a>
 				
